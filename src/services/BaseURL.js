@@ -1,0 +1,1 @@
+export const BASEURL = "https://coursemngrbe-1.onrender.com";
